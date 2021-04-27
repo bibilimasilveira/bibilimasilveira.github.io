@@ -1,0 +1,20 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "Corujinha"
+license = "MIT"
+licenselink = "https://github.com/silveiralexf/corujinha/blob/master/LICENSE"
+description = "Port of the creative portfolio theme"
+homepage = "https://github.com/silveiralexf/corujinha"
+tags = ["creative", "portfolio", "minimal", "responsive", "reading"]
+features = ["disqus", "bootstrap", "responsive", "google analytics"]
+min_version = 0.20
+
+[author]
+  name = "Felipe Silveira"
+  homepage = "https://github.com/silveiralexf"
+
+# If porting an existing theme
+[original]
+  name = "Kishan B"
+  homepage = "https://github.com/kishaningithub"
