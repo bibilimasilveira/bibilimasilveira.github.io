@@ -12,10 +12,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "pink"
-  description = "Um espoço para leituras, desenhos e jogos pra crianças curiosas!"
+  description = "Um espaço para leituras, desenhos e jogos pra crianças curiosas!"
   copyright = "&copy;2021 bibilimasilveira"
   sidebarAbout = [
-    "Um espoço para leituras, desenhos e jogos pra crianças curiosas!",
+    "Um espaço para leituras, desenhos e jogos pra crianças curiosas!",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
