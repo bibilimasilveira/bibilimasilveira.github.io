@@ -8,7 +8,7 @@ Portanto, para todo mundo que visitar este site, meu muito obrigado e espero que
 
 # Como publicar o site
 
-1. Fazer download e instalar o [Hugo](https://gohugo.io/) (que é um gerador de [sites estáticos](https://pt.wikipedia.org/wiki/)P%C3%A1gina_web).
+1. Fazer download e instalar o [Hugo](https://gohugo.io/) (que é um gerador de [sites estáticos](https://pt.wikipedia.org/wiki/P%C3%A1gina_web).
 
 2.  clonar o repositório para o seu computador:
 
@@ -24,7 +24,7 @@ Resolving deltas: 100% (99/99), done.
 ```
 
 **Observação:** Caso você não tenha o [git](https://git-scm.com/docs/git/pt_BR) instalado -- ou não saiba como usar,
-clique no botão verde na [página principal do repositório](https://github.com/bibilimasilveira/bibilimasilveira.github.io) para fazer o download.
+clique no botão verde na [página principal do repositório](https://github.com/bibilimasilveira/bibilimasilveira.github.io) para fazer o download .
 
 3. De dentro do diretório execute o seguinte comando, com o Hugo já tendo sido instalado:
 
