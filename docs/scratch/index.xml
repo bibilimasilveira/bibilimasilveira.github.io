@@ -6,7 +6,7 @@
     <description>Recent content in Scratches on bibilimasilveira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 26 Apr 2021 18:25:22 +0530</lastBuildDate><atom:link href="https://bibilimasilveira.github.io/scratch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 20:41:22 +0530</lastBuildDate><atom:link href="https://bibilimasilveira.github.io/scratch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://bibilimasilveira.github.io/scratch/default/</link>
@@ -38,6 +38,15 @@
       <guid>https://bibilimasilveira.github.io/scratch/mario-dodge-remix/</guid>
       <description>Mario Dodge! (remix)  Autor: Beatriz Lima da Silveira Projeto: Mario Dodge Remix   Para aprender como fazer esse jogo só assistir a aula no Canal Programe Comigo
  </description>
+    </item>
+    
+    <item>
+      <title>Bear Simulator</title>
+      <link>https://bibilimasilveira.github.io/scratch/bear-simulator/</link>
+      <pubDate>Sun, 02 May 2021 20:41:22 +0530</pubDate>
+      
+      <guid>https://bibilimasilveira.github.io/scratch/bear-simulator/</guid>
+      <description>Bear Simulator  Autor: Beatriz Lima da Silveira Projeto: Bear Simulator   </description>
     </item>
     
   </channel>
