@@ -4,7 +4,6 @@ draft = false
 image = "img/scratch/mario-dodge.png"
 date = "2021-04-26T18:25:22+05:30"
 title = "Mario Dodge Remix"
-weight = 3
 +++
 
 ## Mario Dodge! (remix)

@@ -4,7 +4,6 @@ draft = false
 image = "img/scratch/scratch-friday-night.png"
 date = "2021-04-12T18:25:22+05:30"
 title = "Friday Night At Freddy"
-weight = 2
 +++
 
 Eu quis usar o Friday Nights at Fredy's junto com o jogo do Friday Night Funking.
