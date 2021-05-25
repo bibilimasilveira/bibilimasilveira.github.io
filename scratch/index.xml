@@ -6,7 +6,7 @@
     <description>Recent content in Scratches on bibilimasilveira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 10 May 2021 20:41:22 +0530</lastBuildDate><atom:link href="https://bibilimasilveira.github.io/scratch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 May 2021 20:41:22 +0530</lastBuildDate><atom:link href="https://bibilimasilveira.github.io/scratch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://bibilimasilveira.github.io/scratch/default/</link>
@@ -18,13 +18,21 @@
     </item>
     
     <item>
-      <title>Scratch Wars</title>
-      <link>https://bibilimasilveira.github.io/scratch/scratch-wars/</link>
-      <pubDate>Mon, 10 May 2021 20:41:22 +0530</pubDate>
+      <title>Caça aos Doces</title>
+      <link>https://bibilimasilveira.github.io/scratch/caca-aos-doces/</link>
+      <pubDate>Mon, 24 May 2021 20:41:22 +0530</pubDate>
       
-      <guid>https://bibilimasilveira.github.io/scratch/scratch-wars/</guid>
-      <description>Autor: Beatriz Lima da Silveira Projeto: Scratch Wars  O 4 de maio, também conhecido como o Dia Star wars, surgiu do trocadilho da pronuncia da data com a icônica frase em inglês &amp;ldquo;may te force be with you&amp;rdquo; (&amp;ldquo;Que a força esteja com você&amp;rdquo;).
-Não demorou muito para que os fãs começassem a falar &amp;ldquo;may the fourth be with you&amp;rdquo; (&amp;ldquo;Que o 4 de maio esteja com você&amp;rdquo;).</description>
+      <guid>https://bibilimasilveira.github.io/scratch/caca-aos-doces/</guid>
+      <description> Autor: Beatriz Lima da Silveira Projeto: Caça aos Doces   </description>
+    </item>
+    
+    <item>
+      <title>Fundo do Mar</title>
+      <link>https://bibilimasilveira.github.io/scratch/fundo-do-mar/</link>
+      <pubDate>Sat, 15 May 2021 20:41:22 +0530</pubDate>
+      
+      <guid>https://bibilimasilveira.github.io/scratch/fundo-do-mar/</guid>
+      <description> Autor: Beatriz Lima da Silveira Projeto: Fundo do Mar   </description>
     </item>
     
     <item>
@@ -33,7 +41,7 @@ Não demorou muito para que os fãs começassem a falar &amp;ldquo;may the fourt
       <pubDate>Sun, 02 May 2021 20:41:22 +0530</pubDate>
       
       <guid>https://bibilimasilveira.github.io/scratch/bear-simulator/</guid>
-      <description> Autor: Beatriz Lima da Silveira Projeto: Bear Simulator   </description>
+      <description>Bear Simulator  Autor: Beatriz Lima da Silveira Projeto: Bear Simulator   </description>
     </item>
     
     <item>
@@ -42,7 +50,7 @@ Não demorou muito para que os fãs começassem a falar &amp;ldquo;may the fourt
       <pubDate>Mon, 26 Apr 2021 18:25:22 +0530</pubDate>
       
       <guid>https://bibilimasilveira.github.io/scratch/mario-dodge-remix/</guid>
-      <description> Autor: Beatriz Lima da Silveira Projeto: Mario Dodge Remix   Para aprender como fazer esse jogo só assistir a aula no Canal Programe Comigo
+      <description>Mario Dodge! (remix)  Autor: Beatriz Lima da Silveira Projeto: Mario Dodge Remix   Para aprender como fazer esse jogo só assistir a aula no Canal Programe Comigo
  </description>
     </item>
     
@@ -57,6 +65,16 @@ Não demorou muito para que os fãs começassem a falar &amp;ldquo;may the fourt
 &lt;li&gt;&lt;strong&gt;Autor&lt;/strong&gt;: &lt;a href=&#34;../../about/&#34;&gt;Beatriz Lima da Silveira&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Projeto&lt;/strong&gt;: &lt;a href=&#34;https://scratch.mit.edu/projects/505608484/&#34;&gt;Friday Nights at Fredy&amp;rsquo;s&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Scratch Wars</title>
+      <link>https://bibilimasilveira.github.io/scratch/scratch-wars/</link>
+      <pubDate>Sat, 10 Apr 2021 20:41:22 +0530</pubDate>
+      
+      <guid>https://bibilimasilveira.github.io/scratch/scratch-wars/</guid>
+      <description>Scratch Wars  Autor: Beatriz Lima da Silveira Projeto: Scratch Wars  O 4 de maio, também conhecido como o Dia Star wars, surgiu do trocadilho da pronuncia da data com a icônica frase em inglês &amp;ldquo;may te force be with you&amp;rdquo; (&amp;ldquo;Que a força esteja com você&amp;rdquo;).
+Não demorou muito para que os fãs começassem a falar &amp;ldquo;may the fourth be with you&amp;rdquo; (&amp;ldquo;Que o 4 de maio esteja com você&amp;rdquo;).</description>
     </item>
     
   </channel>
