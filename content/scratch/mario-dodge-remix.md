@@ -6,8 +6,6 @@ date = "2021-04-26T18:25:22+05:30"
 title = "Mario Dodge Remix"
 +++
 
-## Mario Dodge! (remix)
-
 - **Autor**: [Beatriz Lima da Silveira](../../about/)
 - **Projeto**: [Mario Dodge Remix](https://scratch.mit.edu/projects/521548674/)
 

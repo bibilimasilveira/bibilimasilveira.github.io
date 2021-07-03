@@ -2,11 +2,9 @@
 showonlyimage = true
 draft = false
 image = "img/scratch/scratch-wars.png"
-date = "2021-04-10T20:41:22+05:30"
+date = "2021-05-04T20:41:22+05:30"
 title = "Scratch Wars"
 +++
-
-## Scratch Wars
 
 - **Autor**: [Beatriz Lima da Silveira](../../about/)
 - **Projeto**: [Scratch Wars](https://scratch.mit.edu/projects/525010608/)
